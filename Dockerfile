@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:8
 
 ENV HOST localhost
 ENV PORT 3000
@@ -28,7 +28,7 @@ WORKDIR ../
 COPY . /usr/src/app
 
 #CESAR
-RUN npm install convnetjs mathjs
+RUN npm install convnetjs mathjs@5.9.0
 EXPOSE 3000
 RUN chmod +x /usr/src/app/docker-entrypoint.sh
 ENTRYPOINT ["/usr/src/app/docker-entrypoint.sh"]
