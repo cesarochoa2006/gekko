@@ -28,7 +28,7 @@ WORKDIR ../
 COPY . /usr/src/app
 
 #CESAR
-RUN npm install convnetjs mathjs@5.9.0
+RUN npm install convnetjs mathjs@5.9.0 tulind
 EXPOSE 3000
 RUN chmod +x /usr/src/app/docker-entrypoint.sh
 ENTRYPOINT ["/usr/src/app/docker-entrypoint.sh"]
