@@ -1,18 +1,3 @@
-# This repo is not maintained anymore
-
-I am officially not maintaining this project anymore. It was an amazing journey and I want to thank everyone for
-playing the role in this amazing story!
-
-More details can be found here: [https://medium.com/@gekkoplus/archiving-open-source-gekko-dba02e6efc7](https://medium.com/@gekkoplus/archiving-open-source-gekko-dba02e6efc7)
-
-This only impacts my Gekko repo (askmike/gekko). There might be other forks of Gekko out there that are being maintained!
-
-------
-
-Old content:
-
-------
-
 
 # Gekko [![npm](https://img.shields.io/npm/dm/gekko.svg)]() [![Build Status](https://travis-ci.org/askmike/gekko.png)](https://travis-ci.org/askmike/gekko) [![Build status](https://ci.appveyor.com/api/projects/status/github/askmike/gekko?branch=stable&svg=true)](https://ci.appveyor.com/project/askmike/gekko)
 
@@ -40,4 +25,4 @@ Gekko has [a forum](https://forum.gekko.wizb.it/) that is the place for discussi
 
 ## Final
 
-If Gekko helped you in any way, you can always leave me a tip at (BTC) 13r1jyivitShUiv9FJvjLH7Nh1ZZptumwW
+If Gekko helped you in any way, you can always leave me a tip at (BTC) 
